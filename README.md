@@ -14,7 +14,7 @@ const baseConvert = require('base-convert.js')
 ------
 ### Browser
 ```html
-<script type="application/javascript" src="https://cdn.jsdelivr.net/gh/ErrorGamer2000/base-cnvert.js/browser.js"></script>
+<script type="application/javascript" src="https://cdn.jsdelivr.net/gh/ErrorGamer2000/base-convert.js/browser.js"></script>
 ```
 ## Usage and Syntax
 ### Syntax
