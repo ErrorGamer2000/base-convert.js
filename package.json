@@ -1,0 +1,19 @@
+{
+  "name": "base-convert.js",
+  "version": "1.0.0",
+  "description": "Convert numbers to and from any base from 2 to 62!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErrorGamer2000/base-convert.js.git"
+  },
+  "author": "ErrorGamer2000",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/ErrorGamer2000/base-convert.js/issues"
+  },
+  "homepage": "https://github.com/ErrorGamer2000/base-convert.js#readme"
+}
